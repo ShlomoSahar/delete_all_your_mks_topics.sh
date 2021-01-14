@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Locate this script at your kafka client root directory 
+# Locate this script under your kafka client root directory 
 
 #Your ZookeeperConnectString
 ZK=YourZookeeperConnectString
